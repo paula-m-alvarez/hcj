@@ -1,0 +1,17 @@
+table {
+    border: 1px solid black;
+}
+
+
+.titulos {
+    background-color: blue;
+    color: white;
+}
+
+.naranja {
+    background-color: orange;
+}
+
+.amarillo {
+    background-color: yellow;
+}

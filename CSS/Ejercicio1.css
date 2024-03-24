@@ -1,0 +1,19 @@
+.parte-uno {
+    display: inline;
+    background-color: red;
+    color: white;
+}
+
+.parte-dos {
+    display: inline;
+    border: 1px solid blue;;
+    border-radius: 10px;
+}
+
+.parte-tres {
+    display: inline;
+    background-color: red;
+    color: black;
+    font-weight: 700;
+    font-style: italic;
+}

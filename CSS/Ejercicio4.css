@@ -1,0 +1,13 @@
+p::first-letter {
+    font-size: 300%;
+    color: rgb(43, 43, 200);
+    font-weight: 700;
+}
+
+p::first-line {
+    color: rgb(37, 168, 229);
+}
+
+p {
+    width: 50%;
+}
